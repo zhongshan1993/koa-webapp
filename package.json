@@ -1,0 +1,25 @@
+{
+  "name": "koa-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongshan1993/koa-webapp.git"
+  },
+  "author": "'zhongshan' <imzhongshan@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhongshan1993/koa-webapp/issues"
+  },
+  "homepage": "https://github.com/zhongshan1993/koa-webapp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0",
+    "koa-views": "^6.1.4"
+  }
+}
